@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "c0c7df67ac9e89ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "4149af9e67d5780e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af850a1e9b084437",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c2365ae8c90a493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magento/Ошибки/При --dry-run=1 нет файла лога.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8efdd8dc539944b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magento/Ошибки/Локально ошибка отправки message при логине.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2af815116ce4f89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magento/Ошибки/Базовая настройка после установки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3a399733ebef3ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Подходы к разработке/TDD/TDD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "395587fb8528808d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0da74aef75fd9cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d874a9d585e07582",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "55acafcb732c35b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#platform",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "afc38ca71d48e686",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9cb1198b569adca",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e5c9c3f4aa9d546",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14c6f478b00749aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Подходы к разработке/TDD/TDD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66153163b018e8c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Подходы к разработке/TDD/TDD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0bc0932022eefd2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a8eafb385253801a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Подходы к разработке/TDD/TDD.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b3a399733ebef3ef",
+  "lastOpenFiles": [
+    "Подходы к разработке/Подходы к разработке.md",
+    "Magento/Ошибки/Базовая настройка после установки.md",
+    "Magento/Ошибки/Локально ошибка отправки message при логине.md",
+    "Magento/Ошибки/При --dry-run=1 нет файла лога.md",
+    "Сервер отчетов/Сервер отчетов.md",
+    "Сервер отчетов/Архитектура и логика.md",
+    "Подходы к разработке/TDD/TDD.md",
+    "Git/Решение конкретных задач.md",
+    "Проекты.md",
+    "Projects base on Core/Common Components/Core/Core.md"
+  ]
+}
